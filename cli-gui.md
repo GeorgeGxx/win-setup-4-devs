@@ -24,12 +24,16 @@ choco install -y peazip
 - <package_name>
   - awscli
 
-choco install -y awscli awssamcli azure-cli Cmder gcloudsdk gh git glab gradle graphviz javadecompiler-gui k9s kubernetes-cli kubernetes-helm kubernetes-helmfile kubernetes-kops liberica11jdk liberica17jdk liberica21jdk liberica8jdk maven Minikube nvm opentofu python311 serverless sqlitestudio terraform vault
+choco install -y awscli awssamcli azure-cli gh git glab gradle graphviz javadecompiler-gui k9s kubernetes-cli kubernetes-helm kubernetes-helmfile kubernetes-kops liberica11jdk liberica17jdk liberica21jdk liberica8jdk maven Minikube nvm opentofu python311 serverless sqlitestudio terraform vault
 
 choco install -y go --version=1.24.6
 
 choco upgrade -y peazip
 ```
+
+`Google Cloud CLI` - GCLOUDSDK (gcloud)
+
+- https://cloud.google.com/sdk/docs/install
 
 ## Pip
 

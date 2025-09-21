@@ -27,7 +27,6 @@ Docu
 ```bash
 arjun.swagger-viewer
 42crunch.vscode-openapi
-jebbs.plantuml
 ```
 
 JavaScript
@@ -70,12 +69,6 @@ ms-python.isort
 ms-python.python
 ms-python.vscode-pylance
 ms-python.vscode-python-envs
-```
-
-Mobile
-```bash
-dart-code.dart-code
-dart-code.flutter
 ```
 
 Infra / CICD

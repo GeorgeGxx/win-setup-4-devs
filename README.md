@@ -32,7 +32,6 @@
 - Golang
 - Java
 - Python
-- Mobile (Flutter)
 - Infra / CICD
 - Security
 - Optional
